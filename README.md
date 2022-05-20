@@ -26,10 +26,11 @@ Abra uma instância de terminal e rode o seguinte comando:
 yarn
 ```
 
-Após, rode o comando:
+Após, rode os comandos:
 
 ```
 yarn prisma db push
+yarn prisma generate
 ```
 
 Por fim, rode o comando:
